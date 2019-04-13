@@ -10,3 +10,4 @@ Below are some examples of images generated with varying initial conditions.
 ![Alt text](/example_images/ex5.png)
 ![Alt text](/example_images/ex6.png)
 ![Alt text](/example_images/ex7.png)
+![Alt text](/example_images/ex8.png)
